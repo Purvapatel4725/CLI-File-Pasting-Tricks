@@ -1,4 +1,4 @@
-# No nano, no problem!!
+# No nano, no problem!!!
 
 Have you ever wondered how to paste your code or any text into a file when nano, vim, or other tools aren't available? Here are a few tricks to do it without any hassle. All you need is write permission on the file, and you're all set!
 
