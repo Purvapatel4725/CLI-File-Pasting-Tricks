@@ -41,3 +41,7 @@ $ cat > example.txt << EOF
 > ?>
 > EOF
 ```
+
+## Author:
+**Purva Patel**
+
