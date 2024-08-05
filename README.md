@@ -23,7 +23,7 @@ IyBhIHNpbXBsZSBmb3IgbG9vcApzdGFydCA9IDEKZW5kID0gMTAwCgpmb3IgbnVtYmVyIGluIHJhbmdl
 echo it into a file:
 
 ```
-echo 'IyBhIHNpbXBsZSBmb3IgbG9vcApzdGFydCA9IDEKZW5kID0gMTAwCgpmb3IgbnVtYmVyIGluIHJhbmdlKHN0YXJ0LCBlbmQgKyAxKToKICAgIHByaW50KG51bWJlcik='  | base64 -d > loop.py
+echo '{paste base64 encoding here}' | base64 -d > loop.py
 ```
 
 You will see that the contents are pasted as is inside the file.
